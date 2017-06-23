@@ -5,11 +5,14 @@ WARNING:
 This code do not worke well,I am trying to fix the bug.
 ######################################################
 
+
 This is the implementation of the deep transfer network.
 Please refer:
 Zhang, X., Yu, F. X., Chang, S. F., & Wang, S. (2015). Deep transfer network: Unsupervised domain adaptation. arXiv preprint arXiv:1503.00591.
 
 ######################################################
+
+
 How to use the code for test?
 1.unzip the three *.tar.gz file.
 2.run train.py
