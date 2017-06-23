@@ -13,8 +13,11 @@ Zhang, X., Yu, F. X., Chang, S. F., & Wang, S. (2015). Deep transfer network: Un
 ######################################################
 
 How to use the code for test?
+
 1.unzip the three *.tar.gz file.
+
 2.run train.py
+
 3.over
 
 problems:
